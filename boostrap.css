@@ -1,0 +1,39 @@
+.vbn{
+    font-size: 300px;
+    font-weight: 100px;
+    font-family: cursive;
+    text-shadow: 20px;
+    color: green;
+}
+
+
+.wrk{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+.title{
+    text-align: center;
+}
+.bd{
+    background-color: azure;
+}
+.bw{
+    background-color: white;
+   
+}
+.containerB2{
+    display: flex;
+}
+
+.bar{
+    border-radius: 5px;
+    border: 5px;
+    color: brown;
+}
+
+.bdd22{
+    color:rgba(253, 235, 208);
+}
